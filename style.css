@@ -1,0 +1,28 @@
+a[href="/itoshunya/photo"] + div:after {
+    position: absolute;
+    top: 0;
+    right: 110%;
+    content: "⚠ 発言内容に注意";
+    display:inline-block;
+    vertical-align: middle;
+    margin: -.25em .25em;
+    padding: .25em .5em;
+    font-size: 85%;
+    font-weight: 700;
+    background: #fddd00;
+    border-radius: .25em;
+    white-space: nowrap;
+}
+
+a[href="/itoshunya"] .r-3s2u2q:after {
+    content: "⚠ 発言内容に注意";
+    display:inline-block;
+    vertical-align: middle;
+    margin: -.25em .25em;
+    padding: .25em .5em;
+    font-size: 85%;
+    font-weight: 700;
+    background: #fddd00;
+    border-radius: .25em;
+    white-space: nowrap;
+}
