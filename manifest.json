@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Twitter Unreliable Badge",
   "author": "sharapeco",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds badge to unreliable account name and header.",
   "icons": {
     "48": "icon-48.png"
