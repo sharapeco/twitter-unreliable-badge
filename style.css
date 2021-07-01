@@ -2,7 +2,8 @@ a[href="/itoshunya/photo"] + div:after,
 a[href="/nankaiofficial/photo"] + div:after,
 a[href="/nhk_1945ichiro/photo"] + div:after,
 a[href="/nhk_1945shun/photo"] + div:after,
-a[href="/nhk_1945yasuko/photo"] + div:after {
+a[href="/nhk_1945yasuko/photo"] + div:after,
+a[href="/yoheiharada/photo"] + div:after {
     position: absolute;
     top: 0;
     right: 110%;
@@ -22,7 +23,8 @@ a[href="/itoshunya"] .r-3s2u2q:after,
 a[href="/nankaiofficial"] .r-3s2u2q:after,
 a[href="/nhk_1945ichiro"] .r-3s2u2q:after,
 a[href="/nhk_1945shun"] .r-3s2u2q:after,
-a[href="/nhk_1945yasuko"] .r-3s2u2q:after {
+a[href="/nhk_1945yasuko"] .r-3s2u2q:after,
+a[href="/yoheiharada"] .r-3s2u2q:after {
     content: "⚠ 発言内容に注意";
     display:inline-block;
     vertical-align: middle;
